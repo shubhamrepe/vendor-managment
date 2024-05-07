@@ -4,7 +4,7 @@ This is a Django-based system for managing vendors, purchase orders, and calcula
 
 ## Setup Instructions
 
-1. Clone the repository:
+1. Clone the repository:"https://github.com/shubhamrepe/vendor-managment.git"
 2. Install dependencies:
 3. Run migrations:
 4. Start the development server:
